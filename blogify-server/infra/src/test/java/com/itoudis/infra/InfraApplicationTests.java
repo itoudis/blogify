@@ -1,10 +1,10 @@
-package com.itoudis.blogifyserver;
+package com.itoudis.infra;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BlogifyServerApplicationTests {
+class InfraApplicationTests {
 
     @Test
     void contextLoads() {
