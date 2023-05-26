@@ -8,6 +8,7 @@ public class InfraApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(InfraApplication.class, args);
+
     }
 
 }

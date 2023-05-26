@@ -1,0 +1,5 @@
+rootProject.name = 'blogify-server'
+include 'domain'
+include 'application'
+include 'infra'
+
